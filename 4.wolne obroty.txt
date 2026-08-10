@@ -1,0 +1,47 @@
+Poniedziałek,10,Sierpień,2026,18:27:28:00009-VCID:1C3761778CABCE7337-515A,Wersja VCDS: AKP 23.3.1,Wersja danych: 20230601 DS346.2
+047 906 033 L,,1.4l SIMOS3PA   00HS5401,
+
+,Grupa A:,'014,,,,Grupa B:,'015,,,,Grupa C:,'016
+,,Obroty silnika,Obciążenie,Zliczanie, ,,Zliczanie,Zliczanie,Zliczanie, ,,Zliczanie, , , 
+,CZAS,,,,,CZAS,,,,,CZAS,,,,
+Znacznik,ZAPISU, /min, %,,,ZAPISU,,,,,ZAPISU,,,,
+,0.01,800,28.2,0,aktywna,0.30,0,0,0,aktywna,0.60,0, , ,aktywna
+,0.90,768,28.2,0,aktywna,1.21,0,0,0,aktywna,1.54,0, , ,aktywna
+,1.85,768,28.2,0,aktywna,2.15,0,0,0,aktywna,2.44,0, , ,aktywna
+,2.73,1120,84.3,0,aktywna,3.07,0,0,0,aktywna,3.41,0, , ,nieaktywna
+,3.78,2592,0.0,0,nieaktywna,4.10,0,0,0,nieaktywna,4.45,0, , ,nieaktywna
+,4.79,1888,0.0,0,nieaktywna,5.15,0,0,0,aktywna,5.51,0, , ,nieaktywna
+,5.86,3456,0.0,0,nieaktywna,6.15,0,0,0,nieaktywna,6.54,0, , ,aktywna
+,6.92,4352,0.0,0,nieaktywna,7.28,0,0,0,nieaktywna,7.65,0, , ,aktywna
+,8.06,4448,35.3,0,nieaktywna,8.49,0,1,0,nieaktywna,8.94,0, , ,nieaktywna
+,9.32,4512,0.0,1,nieaktywna,9.71,0,1,0,nieaktywna,10.10,0, , ,nieaktywna
+,10.43,2592,0.0,1,nieaktywna,10.76,0,1,0,nieaktywna,11.10,0, , ,nieaktywna
+,11.41,2752,0.0,1,nieaktywna,11.74,0,1,0,nieaktywna,12.09,0, , ,nieaktywna
+,12.47,4224,0.0,1,nieaktywna,12.80,0,1,0,nieaktywna,13.09,0, , ,nieaktywna
+,13.42,2592,0.0,1,nieaktywna,13.75,0,1,0,nieaktywna,14.05,0, , ,nieaktywna
+,14.35,1280,0.0,1,nieaktywna,14.64,0,1,0,nieaktywna,14.97,0, , ,aktywna
+,15.26,1696,0.0,1,nieaktywna,15.57,0,1,0,nieaktywna,15.90,0, , ,nieaktywna
+,16.24,2208,85.5,1,nieaktywna,16.62,0,1,0,aktywna,17.03,0, , ,nieaktywna
+,17.40,3936,0.0,1,nieaktywna,17.73,0,1,0,nieaktywna,18.06,0, , ,nieaktywna
+,18.39,2336,0.0,1,nieaktywna,18.72,0,1,0,nieaktywna,19.05,0, , ,nieaktywna
+,19.34,1056,22.0,1,nieaktywna,19.65,0,1,0,nieaktywna,19.94,0, , ,nieaktywna
+,20.23,768,25.1,1,aktywna,20.53,0,1,0,aktywna,20.83,0, , ,aktywna
+,21.14,800,26.7,1,aktywna,21.45,0,1,0,aktywna,21.75,0, , ,aktywna
+,22.04,800,28.2,1,aktywna,22.33,0,1,0,aktywna,22.62,0, , ,aktywna
+,22.91,768,28.2,1,aktywna,23.22,0,1,0,aktywna,23.52,0, , ,aktywna
+,23.84,800,26.7,1,aktywna,24.15,0,1,0,aktywna,24.46,0, , ,aktywna
+,24.76,800,26.7,1,aktywna,25.06,0,1,0,aktywna,25.35,0, , ,aktywna
+,25.66,800,26.7,1,aktywna,25.94,0,1,0,aktywna,26.24,0, , ,aktywna
+,26.53,800,26.7,1,aktywna,26.83,0,1,0,aktywna,27.13,0, , ,aktywna
+,27.42,800,26.7,1,aktywna,27.73,0,1,0,aktywna,28.03,0, , ,aktywna
+,28.33,800,26.7,1,aktywna,28.62,0,1,0,aktywna,28.92,0, , ,aktywna
+,29.22,800,26.7,1,aktywna,29.51,0,1,0,aktywna,29.82,0, , ,aktywna
+,30.13,800,25.1,1,aktywna,30.42,0,1,0,aktywna,30.70,0, , ,aktywna
+,30.98,1248,66.3,1,aktywna,31.32,0,1,0,aktywna,31.65,0, , ,aktywna
+,31.97,1248,20.8,1,aktywna,32.29,0,1,0,nieaktywna,32.60,0, , ,nieaktywna
+,32.89,768,25.1,1,nieaktywna,33.18,0,1,0,aktywna,33.48,0, , ,aktywna
+,33.78,768,28.2,1,aktywna,34.08,0,1,0,aktywna,34.37,0, , ,aktywna
+,34.67,800,28.2,1,aktywna,34.98,0,1,0,aktywna,35.28,0, , ,aktywna
+,35.56,800,26.7,1,aktywna,35.85,0,1,0,aktywna,36.16,0, , ,aktywna
+,36.45,800,26.7,1,aktywna,36.74,0,1,0,aktywna,37.06,0, , ,aktywna
+,37.36,800,26.7,1,aktywna,37.67,0,1,0,aktywna,37.96,0, , ,aktywna
